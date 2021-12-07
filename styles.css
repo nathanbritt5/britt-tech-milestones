@@ -1,0 +1,27 @@
+body {
+    background-image: url(1621435810041.webp);
+  }
+p {
+color:rgb(226, 197, 152)
+}
+h1 {
+    text-align: center;
+    color:rgb(202, 143, 129)
+}
+h2 {
+    color:rgb(89, 121, 82);
+}
+#left {
+    float: left; 
+    margin: 5px;
+}
+#right {
+    float: right; 
+    margin: 5px;
+}
+.link {
+    color: rgb(209, 119, 104);"
+}
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
